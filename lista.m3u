@@ -22,8 +22,10 @@ https://api.new.livestream.com/accounts/9427524/events/8926151/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7BE9Cpp.png" tvg-country="MX" tvg-url="" group-title="",MTV (Latinoamérica)
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CULTURA: HISTORY SD*" tvg-logo="" group-title="CULTURA",CULTURA: HISTORY SD*
-http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/42
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: HISTORY " tvg-logo="" group-title="CULTURA",CULTURA: HISTORY SD*
+http://62.210.247.122:25461/Chilean50conn/sPDmqSHTFT/21
+
+
 #EXTINF:-1 tvg-id="" tvg-name="CULTURA: ID SD*" tvg-logo="" group-title="CULTURA",CULTURA: ID SD*
 http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/43
 #EXTINF:-1 tvg-id="" tvg-name="CULTURA: NAT GEO SD*" tvg-logo="" group-title="CULTURA",CULTURA: NAT GEO SD*
@@ -42,3 +44,5 @@ http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u
 http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/25
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO XTREAME SD *" tvg-logo="" group-title="CINEMA",CINEMA: HBO XTREAME SD *
 http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/26
+
+
