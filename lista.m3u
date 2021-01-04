@@ -1,0 +1,44 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="106778" tvg-name="TV Agro" tvg-logo="https://lh3.googleusercontent.com/-bYWyyOcC2x4/XzgjJoWSgjI/AAAAAAAA4ZI/qdACJcxyvH0GPd6j7ptRXf-ZksfqKlIzQCK8BGAsYHg/s0/2020-08-15.jpg", TV Agro
+http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w842594670.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108666" tvg-name="Caracol" tvg-logo="https://lh3.googleusercontent.com/-cnEF-Jb4oZk/XzghpFYoQLI/AAAAAAAA4YE/syrJvA2xcmwQRvs5Df5FlbVl40HBIRUeQCK8BGAsYHg/s0/2020-08-15.jpg", Caracol
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/f3c5TIR.png" tvg-country="CO" tvg-url="" group-title="",Canal CNC Medellin
+http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/W3rlI3P.png" tvg-country="CO" tvg-url="" group-title="",Canal Doce
+https://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://s3.amazonaws.com/rtvc-assets-canalinstitucional.tv/s3fs-public/logo-canal-institucional.png" tvg-country="CO" tvg-url="" group-title="",Canal Institucional
+https://live-edge-bhs-1.cdn.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2023/live-1500/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/29DQNPy.png" tvg-country="CO" tvg-url="" group-title="",Tele Medellin
+https://api.new.livestream.com/accounts/4608897/events/7111788/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/i5wyEor.png" tvg-country="CO" tvg-url="" group-title="",Telecaribe
+https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://www.caracoltv.com/sites/default/files/caracoltv_logo_200.png" tvg-country="UNSORTED" tvg-url="" group-title="",Caracol (Colombia)
+https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://www.teleantioquia.co/wp-content/uploads/2016/04/25145310/TA_te_ve_en_grande.png" tvg-country="UNSORTED" tvg-url="" group-title="",Teleantioquia (Colombia)
+https://api.new.livestream.com/accounts/9427524/events/8926151/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7BE9Cpp.png" tvg-country="MX" tvg-url="" group-title="",MTV (Latinoamérica)
+http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: HISTORY SD*" tvg-logo="" group-title="CULTURA",CULTURA: HISTORY SD*
+http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/42
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: ID SD*" tvg-logo="" group-title="CULTURA",CULTURA: ID SD*
+http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/43
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: NAT GEO SD*" tvg-logo="" group-title="CULTURA",CULTURA: NAT GEO SD*
+http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/44
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: NATGEO WILD  SD*" tvg-logo="" group-title="CULTURA",CULTURA: NATGEO WILD  SD*
+http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/45
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: ANIMAL PLANET SD*" tvg-logo="" group-title="CULTURA",CULTURA: ANIMAL PLANET SD*
+http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/34
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Disney JR SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Disney JR SD*
+http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/84
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Disney SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Disney SD*
+http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/83
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Disney XD SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Disney XD SD*
+http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/85
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO Plus SD*" tvg-logo="" group-title="CINEMA",CINEMA: HBO Plus SD*
+http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/25
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO XTREAME SD *" tvg-logo="" group-title="CINEMA",CINEMA: HBO XTREAME SD *
+http://zufreelist.net:8080/Z0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/9vWQz6sa0lZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/26
