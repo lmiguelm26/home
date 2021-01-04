@@ -2,8 +2,10 @@
 
 #EXTINF:-1 tvg-id="106778" tvg-name="TV Agro" tvg-logo="https://lh3.googleusercontent.com/-bYWyyOcC2x4/XzgjJoWSgjI/AAAAAAAA4ZI/qdACJcxyvH0GPd6j7ptRXf-ZksfqKlIzQCK8BGAsYHg/s0/2020-08-15.jpg", TV Agro
 http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w842594670.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="108666" tvg-name="Caracol" tvg-logo="https://lh3.googleusercontent.com/-cnEF-Jb4oZk/XzghpFYoQLI/AAAAAAAA4YE/syrJvA2xcmwQRvs5Df5FlbVl40HBIRUeQCK8BGAsYHg/s0/2020-08-15.jpg", Caracol
+#EXTINF:-1 tvg-id="108666" tvg-name="Caracol" tvg-logo="https://lh3.googleusercontent.com/-cnEF-Jb4oZk/XzghpFYoQLI/AAAAAAAA4YE/syrJvA2xcmwQRvs5Df5FlbVl40HBIRUeQCK8BGAsYHg/s0/2020-08-15.jpg", Caracol noticias
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108666" tvg-name="Caracol" tvg-logo="https://lh3.googleusercontent.com/-cnEF-Jb4oZk/XzghpFYoQLI/AAAAAAAA4YE/syrJvA2xcmwQRvs5Df5FlbVl40HBIRUeQCK8BGAsYHg/s0/2020-08-15.jpg", Caracol tv
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/22145
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/f3c5TIR.png" tvg-country="CO" tvg-url="" group-title="",Canal CNC Medellin
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
@@ -22,26 +24,24 @@ https://api.new.livestream.com/accounts/9427524/events/8926151/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7BE9Cpp.png" tvg-country="MX" tvg-url="" group-title="",MTV (Latinoamérica)
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK", CHV 2
-http://62.210.247.122:25461/Chilean50conn/sPDmqSHTFT/15
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK", HBO 2 #2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CO", HBO 2 #2
 http://62.210.247.122:25461/Chilean50conn/sPDmqSHTFT/16
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK", A&E HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CO", A&E 
 http://62.210.247.122:25461/Chilean50conn/sPDmqSHTFT/17
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK", AMC
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CO", AMC
 http://62.210.247.122:25461/Chilean50conn/sPDmqSHTFT/18
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK", AXN HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CO", AXN 
 http://62.210.247.122:25461/Chilean50conn/sPDmqSHTFT/19
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK", Fox HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CO", Fox 
 http://62.210.247.122:25461/Chilean50conn/sPDmqSHTFT/20
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK", History HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CO", History 
 http://62.210.247.122:25461/Chilean50conn/sPDmqSHTFT/21
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK", DISCOVERY WORLD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CO", DISCOVERY WORLD
 http://62.210.247.122:25461/Chilean50conn/sPDmqSHTFT/22
