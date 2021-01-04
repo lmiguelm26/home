@@ -45,3 +45,10 @@ http://62.210.247.122:25461/Chilean50conn/sPDmqSHTFT/21
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CO", DISCOVERY WORLD
 http://62.210.247.122:25461/Chilean50conn/sPDmqSHTFT/22
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPAIN", ES: DISNEY CHANNEL
+http://tvporinternet.eshost.com.ar/m3u/disneychannel.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPAIN", ES: DISNEY JUNIOR
+http://tvporinternet.eshost.com.ar/m3u/disneyxd.m3u8
+
