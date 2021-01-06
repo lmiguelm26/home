@@ -54,3 +54,48 @@ http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 http://54.39.243.25:25461/DarwinRestream/hgvu8uhu7755787/33648?token=HkRYAERfFFwVBFIGUFVTAFBVUQ8FAgEBUVcDVAFbCAJTVwcAAgVSBQBEShVCRBEBV1lqXgIVDAZWBQEKGUBEQwAUbwhTFQxEBVBVDxMcQRBfWVAVXAYABVwKAQoEUwUcRxZZBRUNFFQAUlcBExxBAU5AUEUIVlpqAVZDW1YHEwoLE1wNGxVZCGgCA1pQXgdGDBYFFUoVX0YVEQ9cQA5dHEcEWRVFVkIDFVxEAgEDUkYaFlZYE1lCRxwRDxB2LRMcRwNIFVJZRQ9YCEQNE0QQRhoWXEQ5RVNGEUFQU1gHQxJfRABDGxVbB085BVhfXgYHQl1aWRUVDBdXAwUQGUBcXwsPRA5FaEYPU0RcFQMFVlMUSQ==
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Televid
 https://api.new.livestream.com/accounts/28238881/events/8574038/live.m3u8
+
+#EXTINF:-1 tvg-id="babytv.mx" tvg-name="Infantil: BABY TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/6/6c/Baby_tv_logo_senza_sfondo.png" group-title="Infantil",Infantil: BABY TV SD
+http://run.cableplay.net:25461/live/DarwinRestream/hgvu8uhu7755787/33645.m3u8
+#EXTINF:-1 tvg-id="boomerang.mx" tvg-name="Infantil: BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Infantil",Infantil: BOOMERANG
+http://run.cableplay.net:25461/live/DarwinRestream/hgvu8uhu7755787/33646.m3u8
+#EXTINF:-1 tvg-id="boomerang.mx" tvg-name="Infantil: BOOMERANG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Infantil",Infantil: BOOMERANG FHD
+http://run.cableplay.net:25461/live/DarwinRestream/hgvu8uhu7755787/33649.m3u8
+#EXTINF:-1 tvg-id="disneychannel.ar" tvg-name="Infantil: CANALES DISNEY" tvg-logo="https://upload.wikimedia.org/wikipedia/de/0/03/Disney-Channel-Logo-2014.png" group-title="Infantil",Infantil: CANALES DISNEY
+http://run.cableplay.net:25461/live/DarwinRestream/hgvu8uhu7755787/33952.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.co" tvg-name="Infantil: CARTOON NETWORK FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1200px-Cartoon_Network_logo.svg.png" group-title="Infantil",Infantil: CARTOON NETWORK FHD
+http://run.cableplay.net:25461/live/DarwinRestream/hgvu8uhu7755787/33648.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.co" tvg-name="Infantil: CARTOON NETWORK SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1200px-Cartoon_Network_logo.svg.png" group-title="Infantil",Infantil: CARTOON NETWORK SD
+http://run.cableplay.net:25461/live/DarwinRestream/hgvu8uhu7755787/33647.m3u8
+#EXTINF:-1 tvg-id="discoverykids.co" tvg-name="Infantil: DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Infantil",Infantil: DISCOVERY KIDS
+http://run.cableplay.net:25461/live/DarwinRestream/hgvu8uhu7755787/33958.m3u8
+#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="Infantil: DISCOVERY KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Infantil",Infantil: DISCOVERY KIDS HD
+http://run.cableplay.net:25461/live/DarwinRestream/hgvu8uhu7755787/33959.m3u8
+#EXTINF:-1 tvg-id="disneychannel.mx" tvg-name="Infantil: DISNEY CHANEL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/0/03/Disney-Channel-Logo-2014.png" group-title="Infantil",Infantil: DISNEY CHANEL FHD
+http://run.cableplay.net:25461/live/DarwinRestream/hgvu8uhu7755787/33955.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.ar" tvg-name="Infantil: DISNEY JUNIOR FHD" tvg-logo="https://mediakit.go.com/wp-content/uploads/2017/03/logo_disney_jr.png" group-title="Infantil",Infantil: DISNEY JUNIOR FHD
+http://run.cableplay.net:25461/live/DarwinRestream/hgvu8uhu7755787/33957.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.ar" tvg-name="Infantil: DISNEY JUNIOR SD" tvg-logo="https://mediakit.go.com/wp-content/uploads/2017/03/logo_disney_jr.png" group-title="Infantil",Infantil: DISNEY JUNIOR SD
+http://run.cableplay.net:25461/live/DarwinRestream/hgvu8uhu7755787/33956.m3u8
+#EXTINF:-1 tvg-id="disneyxd.mx" tvg-name="Infantil: DISNEY XD FHD" tvg-logo="http://mediakit.go.com/wp-content/uploads/2017/03/logo_disney_xd.png" group-title="Infantil",Infantil: DISNEY XD FHD
+http://run.cableplay.net:25461/live/DarwinRestream/hgvu8uhu7755787/33954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: DISNEY XD SD" tvg-logo="http://mediakit.go.com/wp-content/uploads/2017/03/logo_disney_xd.png" group-title="Infantil",Infantil: DISNEY XD SD
+http://run.cableplay.net:25461/live/DarwinRestream/hgvu8uhu7755787/33953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: NATGEO KIDS SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Nat_Geo_Kids_(2017).png" group-title="Infantil",Infantil: NATGEO KIDS SD
+http://run.cableplay.net:25461/live/DarwinRestream/hgvu8uhu7755787/33960.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: NICK 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Nick_2_logo_(2010).svg/1280px-Nick_2_logo_(2010).svg.png" group-title="Infantil",Infantil: NICK 2 FHD
+http://run.cableplay.net:25461/live/DarwinRestream/hgvu8uhu7755787/33968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: NICK 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Nick_2_logo_(2010).svg/1280px-Nick_2_logo_(2010).svg.png" group-title="Infantil",Infantil: NICK 2 SD
+http://run.cableplay.net:25461/live/DarwinRestream/hgvu8uhu7755787/33967.m3u8
+#EXTINF:-1 tvg-id="nickjr.mx" tvg-name="Infantil: NICK JUNIOR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="Infantil",Infantil: NICK JUNIOR HD
+http://run.cableplay.net:25461/live/DarwinRestream/hgvu8uhu7755787/33966.m3u8
+#EXTINF:-1 tvg-id="nickjr.mx" tvg-name="Infantil: NICK JUNIOR SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="Infantil",Infantil: NICK JUNIOR SD
+http://run.cableplay.net:25461/live/DarwinRestream/hgvu8uhu7755787/33965.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="Infantil: NICKELODEON FHD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/62/NICKELODEON_Logo.png" group-title="Infantil",Infantil: NICKELODEON FHD
+http://run.cableplay.net:25461/live/DarwinRestream/hgvu8uhu7755787/33963.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="Infantil: NICKELODEON SD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/62/NICKELODEON_Logo.png" group-title="Infantil",Infantil: NICKELODEON SD
+http://run.cableplay.net:25461/live/DarwinRestream/hgvu8uhu7755787/33962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: NICKTOONS" tvg-logo="http://vignette2.wikia.nocookie.net/nickelodeon/images/f/fe/Nicktoons_SPLAT!.PNG" group-title="Infantil",Infantil: NICKTOONS
+http://run.cableplay.net:25461/live/DarwinRestream/hgvu8uhu7755787/33964.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: TOONCAST SD" tvg-logo="http://www.impulsotv.com.ar/sites/default/files/canales/logos/Tooncast.png" group-title="Infantil",Infantil: TOONCAST SD
+http://run.cableplay.net:25461/live/DarwinRestream/hgvu8uhu7755787/33961.m3u8
